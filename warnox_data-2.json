@@ -1,0 +1,21 @@
+{
+    "users": {
+        "exemple": {
+            "password": "1234",
+            "friends": [],
+            "groups": [],
+            "pending": [],
+            "online": false,
+            "conn": null
+        },
+        "warnox": {
+            "password": "gvesdy",
+            "friends": [],
+            "groups": [],
+            "pending": [],
+            "online": false,
+            "conn": null
+        }
+    },
+    "groups": {}
+}
